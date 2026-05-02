@@ -51,4 +51,3 @@ Se construye un ResultadoQuery.
 
 ### Paso 6: Visualización
 Se muestran los resultados al usuario.
-<!-- actualización -->
